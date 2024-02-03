@@ -1,0 +1,29 @@
+*env/
+*env/*.*
+
+# Bytecode
+*.pyc
+
+# Secret files
+*.secret
+
+# Static files
+static/
+
+# Media files
+media/
+
+# Local database files
+db.sqlite3
+
+# Test database files
+test.db
+
+# PyCharm project files
+.idea/
+
+.vscode/
+
+# Pipenv files
+Pipfile
+Pipfile.lock
